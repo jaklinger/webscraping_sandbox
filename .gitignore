@@ -1,0 +1,6 @@
+*pickle
+*~
+tmp/
+*pyc
+__pycache__/
+*log
